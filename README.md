@@ -12,6 +12,8 @@
 - [X] Add Github actions for automatic testing
 - [X] Add endpoints to store/provide current webcam image
 - [X] Add a walnut image to this readme
+- [ ] Add basic database and push image to database
+- [ ] Refactor structure/files/tests to be more separate
 
 
 ## How to start
