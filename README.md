@@ -7,7 +7,7 @@ It provides basic endpoints to store and provide webcam images.
 
 - [X] Setup basic FastApi
 - [X] Add Github actions for automatic testing
-- [ ] Add endpoints to store/provide current webcam image
+- [X] Add endpoints to store/provide current webcam image
 - [ ] Add a walnut image to this readme
 
 
