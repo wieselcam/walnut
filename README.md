@@ -1,8 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/wieselcam/walnut/development/the_walnut.png" width="500px"/></p>
 <hr>
 <p align="center">
-  Walnut is the new backend server of Wieselcam.
-  It provides basic endpoints to store and provide webcam images.
+  Walnut is a Wieselcam backend for outdoor live webcams.
+  It provides endpoints for storing/delivering images.
 </p>
 <hr>
 
