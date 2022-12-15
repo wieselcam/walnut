@@ -14,6 +14,13 @@
 - [X] Add a walnut image to this readme
 - [ ] Add basic database and push image to database
 - [ ] Refactor structure/files/tests to be more separate
+- [ ] Add CI
+- [ ] Add multiple data sources
+- [ ] Add image/data strategies to allow different sources
+- [ ] Add user system
+- [ ] Add mediator pattern for coming plugin system
+- [ ] Add first version of plugin system
+- [ ] Add CD
 
 
 ## How to start
